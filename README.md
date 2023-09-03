@@ -1,3 +1,3 @@
-# ImageZoom
+# ImageZoom.
 ImageZoom using HTML/CSS.
 
